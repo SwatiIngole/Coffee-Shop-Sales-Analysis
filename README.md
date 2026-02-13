@@ -1,4 +1,5 @@
 ☕ Coffee Shop Sales Analysis | Power BI Dashboard
+
 📌 Project Overview
 
 This project focuses on analyzing coffee shop sales data to uncover key business insights related to revenue, customer behavior, product performance, and sales trends. The goal is to help business stakeholders make data-driven decisions using interactive visualizations.
